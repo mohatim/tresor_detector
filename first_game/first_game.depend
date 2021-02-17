@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1613587436 source:c:\users\hatim\onedrive\bureau\game hafsa\first_game\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<time.h>
+	<math.h>
+	<windows.h>
+
